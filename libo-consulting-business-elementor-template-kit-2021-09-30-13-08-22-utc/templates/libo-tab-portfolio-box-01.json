@@ -1,0 +1,223 @@
+{
+    "version": "0.4",
+    "title": "Libo Tab Portfolio Box 01",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-portfolio",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "2222887f",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "68f4a1e6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "aee40a4",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/surielementor.com\/libokit\/wp-content\/uploads\/2021\/09\/img_portfolio_Home02-JMZNSDC.jpg",
+                                    "id": 2063,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "thumbnail_size": "full",
+                                "title": "Miranda halim group consultancy",
+                                "description": "\\\\  Consultancy",
+                                "show_button": "",
+                                "button_text": "Read More",
+                                "wrap_align": "left",
+                                "image_overlay_background_color": "#FFFFFF00",
+                                "content_style": "style-2",
+                                "content_effect": "fade-in-up",
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "content_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "content_margin": {
+                                    "unit": "px",
+                                    "top": "275",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "content_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "310",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "content_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "65",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "content_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "#DA0B0B"
+                                },
+                                "content_background_color": "#FFFFFF",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Playfair Display",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "600",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "title_color": "#14212B",
+                                "title_color_hover": "#FF4815",
+                                "title_spacer": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Roboto",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "description_typography_font_weight": "bold",
+                                "description_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "description_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "description_color": "#FF4815",
+                                "description_spacer": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "4",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 3,
+                                    "blur": 10,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.06)"
+                                },
+                                "__globals__": {
+                                    "content_background_color": "globals\/colors?id=accent",
+                                    "title_typography_typography": "",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_color_hover": "globals\/colors?id=secondary",
+                                    "description_typography_typography": "",
+                                    "description_color": "globals\/colors?id=secondary",
+                                    "image_overlay_background_color": "",
+                                    "_border_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "tfimagebox",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
